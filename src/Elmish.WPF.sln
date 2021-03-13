@@ -68,6 +68,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Sticky.Core", "Samples\Stic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sticky", "Samples\Sticky\Sticky.csproj", "{668E3AAD-B2AA-4934-804E-234C4F502038}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleCounter.CSharpCore", "Samples\SingleCounter.CSharpCore\SingleCounter.CSharpCore.csproj", "{D60F6A96-C9A8-4EA0-BAB6-C63F07C4B720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -186,6 +188,10 @@ Global
 		{668E3AAD-B2AA-4934-804E-234C4F502038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{668E3AAD-B2AA-4934-804E-234C4F502038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{668E3AAD-B2AA-4934-804E-234C4F502038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60F6A96-C9A8-4EA0-BAB6-C63F07C4B720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F6A96-C9A8-4EA0-BAB6-C63F07C4B720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F6A96-C9A8-4EA0-BAB6-C63F07C4B720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F6A96-C9A8-4EA0-BAB6-C63F07C4B720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -217,6 +223,7 @@ Global
 		{F095E7E4-28ED-4223-A92F-4E86922E34EF} = {BBAFEB1E-93C0-4C7E-8E0A-026BB05C88EC}
 		{F251BEA3-6AD1-4C14-9F3D-87FCFA4292EB} = {BBAFEB1E-93C0-4C7E-8E0A-026BB05C88EC}
 		{668E3AAD-B2AA-4934-804E-234C4F502038} = {BBAFEB1E-93C0-4C7E-8E0A-026BB05C88EC}
+		{D60F6A96-C9A8-4EA0-BAB6-C63F07C4B720} = {BBAFEB1E-93C0-4C7E-8E0A-026BB05C88EC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3125D461-08F4-4071-AAE5-1038EF84A360}

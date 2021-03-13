@@ -13,7 +13,7 @@ namespace Elmish.WPF.Samples.SingleCounter
     private void StartElmish(object sender, EventArgs e)
     {
       this.Activated -= StartElmish;
-      Program.main(MainWindow);
+      Program.Main(MainWindow);
     }
 
   }
